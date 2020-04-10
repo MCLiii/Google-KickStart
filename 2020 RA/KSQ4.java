@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KSQ5 {
+public class KSQ4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int T = scan.nextInt();
